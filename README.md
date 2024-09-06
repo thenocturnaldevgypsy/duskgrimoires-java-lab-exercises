@@ -11,6 +11,7 @@ If you find this repo helpful, please don't forget to `star` to keep yourself up
 ### Updates/Progress
 
 - **06/09/2024**
+   - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises`
    - Continued separating source codes per subject / topic via subdirectory.
       - Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis`
          - Created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`
