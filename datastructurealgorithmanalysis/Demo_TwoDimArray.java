@@ -5,8 +5,6 @@
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
-
 public class Demo_TwoDimArray {
 	public Demo_TwoDimArray() {
 

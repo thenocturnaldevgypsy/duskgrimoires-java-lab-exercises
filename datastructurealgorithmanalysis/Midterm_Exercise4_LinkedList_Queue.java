@@ -61,7 +61,6 @@ Process completed.
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.*;
 
 public class Midterm_Exercise4_LinkedList_Queue {

@@ -21,7 +21,6 @@ Condition: The generation of the asterisk and computing the triangular number mu
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prelim_Exercise10_Method_TriangularNumber {

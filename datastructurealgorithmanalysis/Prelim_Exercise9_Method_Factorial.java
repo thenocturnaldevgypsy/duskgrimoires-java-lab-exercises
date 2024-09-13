@@ -15,7 +15,6 @@ Condition: The computation of the factorial must be coded and perfomed in a meth
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prelim_Exercise9_Method_Factorial {

@@ -21,7 +21,6 @@ Type in the name that you want to search: Karen
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 import java.util.LinkedList;
 

@@ -40,7 +40,6 @@ The average is 5.5
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prelim_Exercise2_OneDimArray_MinMaxAve {

@@ -28,7 +28,6 @@ Nice meeting you <name>, sa uulitin!
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prelim_Exercise1_JavaRefresher {

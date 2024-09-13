@@ -19,7 +19,6 @@ Condition: Each operation (addition, subtraction, multiplication and division) m
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prelim_Exercise8_Method_Operations {

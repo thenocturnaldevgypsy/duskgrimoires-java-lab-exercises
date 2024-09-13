@@ -21,7 +21,6 @@ This means you have one static void main and three customed methods in your prog
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.*;
 
 public class Prelim_Exercise13_DecimalConversion {

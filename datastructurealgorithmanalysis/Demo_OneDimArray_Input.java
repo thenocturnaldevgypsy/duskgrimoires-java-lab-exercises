@@ -5,7 +5,6 @@
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Demo_OneDimArray_Input {

@@ -48,7 +48,6 @@ Sorted content of the 4-sorted:
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Finals_Exercise1_NSort {

@@ -86,7 +86,6 @@ Process completed.
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Midterm_Exercise3_OneDimArray_Queue {

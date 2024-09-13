@@ -83,7 +83,6 @@ Salary: 1,500.00
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

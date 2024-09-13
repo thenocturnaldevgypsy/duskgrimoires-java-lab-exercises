@@ -22,7 +22,6 @@ Type in the name that you want to search: Anna
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.*;
 
 public class Midterm_Exercise2_LinkedList_ReversedLinearSearch {

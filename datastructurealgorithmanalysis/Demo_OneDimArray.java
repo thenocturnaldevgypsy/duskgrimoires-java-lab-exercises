@@ -5,8 +5,6 @@
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
-
 public class Demo_OneDimArray {
 	public Demo_OneDimArray() {
 		

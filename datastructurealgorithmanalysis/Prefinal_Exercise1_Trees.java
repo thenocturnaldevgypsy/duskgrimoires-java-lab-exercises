@@ -68,7 +68,6 @@ Process Complete.
 */
 package datastructurealgorithmanalysis;
 
-import java.*;
 import java.util.Scanner;
 
 public class Prefinal_Exercise1_Trees {
