@@ -1,6 +1,6 @@
+import datastructurealgorithmanalysis.DataStrucAlgoAnalysis;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import datastructurealgorithmanalysis.DataStrucAlgoAnalysis;
 import programmingessentialsoop.ProgEssentialsOOP;
 
 public class App {
@@ -30,7 +30,7 @@ public class App {
          System.out.println("| 0 | To QUIT\n");
          System.out.print("Your choice [0 to QUIT]: ");
 
-         int choiceMain = 0;
+         int choiceMain;
 
          // Input validation
          try {
@@ -42,20 +42,19 @@ public class App {
          }
             
          switch (choiceMain) {
-            case 1:
+            case 1 -> {
                ProgEssentialsOOP peoop = new ProgEssentialsOOP();
                peoop.run();
-               break;
-            case 2:
+            }
+            case 2 -> {
                DataStrucAlgoAnalysis dsaa = new DataStrucAlgoAnalysis();
                dsaa.run();
-               break;
-            case 0:
+            }
+            case 0 -> {
                runningMain = false;
                System.out.println("\nGoodbye!");
-               break;
-            default:
-               System.out.println("\nInvalid option. Please try again.\n");
+            }
+            default -> System.out.println("\nInvalid option. Please try again.\n");
          }
       }
       // Do not close the scanner here
