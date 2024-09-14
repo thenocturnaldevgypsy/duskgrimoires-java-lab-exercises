@@ -44,17 +44,22 @@ Java(TM) SE Runtime Environment (build 22.0.2+9-70)
 Java HotSpot(TM) 64-Bit Server VM (build 22.0.2+9-70, mixed mode, sharing)
 ```
 
-At the moment, the workspace contains two folders by default, where:
+At the moment, the workspace contains the following folders, where:
 
-- `datastructurealgorithmanalysis`: the folder that contains the source codes of the programs I've coded for `Data Structure and Algorithm Analysis`
-- `programmingessentialsoop`: the folder that contains the source codes of the programs I've coded for `Programming Essentials to OOP`
+- 🚧 `computerprogramming1`: the folder that contains the source codes of the programs I've coded for `Computer Programming 1`
+- 🚧 `computerprogramming2`: the folder that contains the source codes of the programs I've coded for `Computer Programming 2`
+- 🚧 `computerprogramming3`: the folder that contains the source codes of the programs I've coded for `Computer Programming 3`
+- ✅ `datastructurealgorithmanalysis`: the folder that contains the source codes of the programs I've coded for `Data Structure and Algorithm Analysis`
 
 ### 🚧 Roadmap
 See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list to-do from my side and proposed features (and known issues).
 
 ### 📖 Contents and Breakdown
 
-Under Data Structures and Algorithm Analysis
+- 🚧 Under Computer Programming 1
+- 🚧 Under Computer Programming 2
+- 🚧 Under Computer Programming 3
+- ✅ Under Data Structures and Algorithm Analysis
    - [All Activities under Prelim Period](DSAA-LabExercise-Prelim.md)
       - Demo
          1. Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
@@ -105,7 +110,7 @@ Under Data Structures and Algorithm Analysis
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.1 | 14.09.2024 | -- | fix | - Updated Markdown files structure overall based on the template: https://github.com/thenocturnaldevgypsy/github-markdown-template-readme/blob/master/MD%20Templates/Repo-App-README-v-0-0-1.md. Updated README.md. Created DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md and DSAA-LabExercise-Prelim.md to separate Demo and Exercise user stories / descriptions from the original README.md|
+| 2.1.1 | 14.09.2024 | [118e2d1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/118e2d10dc55f82a5ec38dc68f928fc9a9e0c3b7) for [PR 1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6) | fix | - Updated Markdown files structure overall based on the template: https://github.com/thenocturnaldevgypsy/github-markdown-template-readme/blob/master/MD%20Templates/Repo-App-README-v-0-0-1.md. Updated README.md. Created DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md and DSAA-LabExercise-Prelim.md to separate Demo and Exercise user stories / descriptions from the original README.md ([PR 1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6)).<br>- Updated directory structure. Deleted "programmingessentialsoop" subdirectory, and replace it with "computerprogramming1", "computerprogramming2" and "computerprogramming3" subdirectories. Created main classes for each subdirectories and the corresponding "on-going" placements ([PR 1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6)).|
 | 1.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises` <br>- Continued separating source codes per subject / topic via subdirectory. <br>- Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis` and created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`. <br>- Created subdirectory `programmingessentialsoop` and created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`. <br>- Updated `App.java` to serve as the Table of Contents for the overall App. |
 | 0.1.2 | 01.09.2024 | -- | feat | Started separating source codes per subject / topic via subdirectory. Created `data-structure-algorithm-analysis` |
 | 0.1.1 | 29.08.2024 | -- | feat | Cloned the original repo `java-labcodes-exercises-dsaa` to the new repo `duskgrimoires-java-lab-exercises` for public viewing purposes. |

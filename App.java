@@ -1,7 +1,9 @@
+import computerprogramming1.ComputerProgramming1;
+import computerprogramming2.ComputerProgramming2;
+import computerprogramming3.ComputerProgramming3;
 import datastructurealgorithmanalysis.DataStrucAlgoAnalysis;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import programmingessentialsoop.ProgEssentialsOOP;
 
 public class App {
    public static void main(String[] args) {
@@ -25,8 +27,10 @@ public class App {
 
       while (runningMain) {
          System.out.println("\nFeel free to browse the programs/apps I've coded:\n");
-         System.out.println("| 1 | Programming Essentials to OOP Lab Codes");
-         System.out.println("| 2 | Data Structure and Algorithm Analysis Lab Codes");
+         System.out.println("| 1 | Computer Programming 1 Lab Codes");
+         System.out.println("| 2 | Computer Programming 2 Lab Codes");
+         System.out.println("| 3 | Computer Programming 3 Lab Codes");
+         System.out.println("| 4 | Data Structure and Algorithm Analysis Lab Codes");
          System.out.println("| 0 | To QUIT\n");
          System.out.print("Your choice [0 to QUIT]: ");
 
@@ -43,10 +47,18 @@ public class App {
             
          switch (choiceMain) {
             case 1 -> {
-               ProgEssentialsOOP peoop = new ProgEssentialsOOP();
-               peoop.run();
+               ComputerProgramming1 comprog1 = new ComputerProgramming1();
+               comprog1.run();
             }
             case 2 -> {
+               ComputerProgramming2 comprog2 = new ComputerProgramming2();
+               comprog2.run();
+            }
+            case 3 -> {
+               ComputerProgramming3 comprog3 = new ComputerProgramming3();
+               comprog3.run();
+            }
+            case 4 -> {
                DataStrucAlgoAnalysis dsaa = new DataStrucAlgoAnalysis();
                dsaa.run();
             }
