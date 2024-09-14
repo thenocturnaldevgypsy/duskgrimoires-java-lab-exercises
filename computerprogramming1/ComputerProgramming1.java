@@ -1,31 +1,31 @@
-package programmingessentialsoop;
+package computerprogramming1;
 
 import java.util.Scanner;
 
-public class ProgEssentialsOOP {
+public class ComputerProgramming1 {
    public void run() {
-      
-      Scanner selectionPEOOP = new Scanner(System.in);
-      boolean runningPEOOP = true;
 
-      while (runningPEOOP) {
+      Scanner selectionComProg1 = new Scanner(System.in);
+      boolean runningComProg1 = true;
+
+      while (runningComProg1) {
          System.out.println("\n==============================================================================================================================");
          System.out.println("+                                                                                                                            +");
-         System.out.println("+                                          Programming Essentials to OOP Lab Codes                                           +");
+         System.out.println("+                                             Computer Programming 1 Lab Codes                                               +");
          System.out.println("+                                                                                                                            +");
          System.out.println("==============================================================================================================================\n");
          System.out.println("This section is not implemented yet. Back to the Main Menu?\n");
          System.out.print("Your choice [Y]: ");
 
-         String choicePEOOP = selectionPEOOP.next().toUpperCase();
+         String choiceComProg1 = selectionComProg1.next().toUpperCase();
 
-         if (choicePEOOP.equals("Y")) {
-            runningPEOOP = false;
+         if (choiceComProg1.equals("Y")) {
+            runningComProg1 = false;
          } else {
             System.out.println("Invalid input. Please enter Y to go back.");
          }
       }
       // Do not close the scanner here
 
-    }
+   }
 }
