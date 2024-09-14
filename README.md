@@ -115,10 +115,10 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 | 2.1.1 | 14.09.2024 | [118e2d1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/118e2d10dc55f82a5ec38dc68f928fc9a9e0c3b7) for [PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6), [3a2fac0](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/3a2fac08c539f0ce0c766b9337e62880358e477e) for [PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7) | fix | - Updated Markdown files structure overall based on the template: https://github.com/thenocturnaldevgypsy/github-markdown-template-readme/blob/master/MD%20Templates/Repo-App-README-v-0-0-1.md. Updated README.md. Created DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md and DSAA-LabExercise-Prelim.md to separate Demo and Exercise user stories / descriptions from the original README.md ([PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6)).<br>- Updated directory structure. Deleted "programmingessentialsoop" subdirectory, and replace it with "computerprogramming1", "computerprogramming2" and "computerprogramming3" subdirectories. Created main classes for each subdirectories and the corresponding "on-going" placements ([PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7)).|
 
 ## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-Want to contribute? Great! But at the moment, the contribution is closed until I finished all the issues that I've opened for myself in this project.
+Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## ![SECTION License](https://img.shields.io/badge/📑-License-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
-Distributed under the MIT License by [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
+Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
