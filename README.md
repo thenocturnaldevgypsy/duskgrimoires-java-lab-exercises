@@ -71,60 +71,60 @@ project-root/
 - 🚧 Under Computer Programming 3
 - ✅ Under Data Structures and Algorithm Analysis
    - [All Activities under Prelim Period](DSAA-LabExercise-Prelim.md)
-```
-Demo
-├── Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
-├── Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
-├── Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
-├── Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
-├── Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
-├── Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
-├── Demo # 7: Method (Demo_Method.java)
-├── Demo # 8: Method - Return (Demo_Method_Return.java)
-├── Demo # 9: Method - Void (Demo_Method_Void.java)
-├── Demo # 10: Stack (Demo_Stack.java)
-├── Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
-└── Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
+      ```
+      Demo
+      ├── Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
+      ├── Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
+      ├── Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
+      ├── Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
+      ├── Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
+      ├── Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
+      ├── Demo # 7: Method (Demo_Method.java)
+      ├── Demo # 8: Method - Return (Demo_Method_Return.java)
+      ├── Demo # 9: Method - Void (Demo_Method_Void.java)
+      ├── Demo # 10: Stack (Demo_Stack.java)
+      ├── Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
+      └── Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
 
-Exercises (conditions and expected output)
-├── Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
-├── Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
-├── Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
-├── Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
-├── Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
-├── Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
-├── Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
-├── Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
-├── Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
-├── Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
-├── Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
-├── Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
-└── Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
-```
+      Exercises (conditions and expected output)
+      ├── Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
+      ├── Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+      ├── Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+      ├── Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
+      ├── Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
+      ├── Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
+      ├── Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
+      ├── Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
+      ├── Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
+      ├── Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
+      ├── Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
+      ├── Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
+      └── Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
+      ```
    - [All Activities under Midterm Period](DSAA-LabExercise-Midterm.md)
-```
-Demo
-└── Demo # 1: Linked List (Demo_LinkedList.java)
+      ```
+      Demo
+      └── Demo # 1: Linked List (Demo_LinkedList.java)
 
-Exercises (conditions and expected output)
-├── Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)
-├── Exercise # 2: Linked List - Reversed Linear Search (Midterm_Exercise2_LinkedList_ReversedLinearSearch.java)
-├── Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
-├── Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
-└── Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
-```
-- [All Activities under Pre-finals Period](DSAA-LabExercise-Prefinals.md)
-```
-Exercises (conditions and expected output)
-└── Exercise # 1: Trees (Prefinal_Exercise1_Trees.java)
-```
-- [All Activities under Finals Period](DSAA-LabExercise-Finals.md)
-```
-Exercises (conditions and expected output)
-├── Exercise # 1: N-sort (Finals_Exercise1_NSort.java)
-├── The End - Feedback to the Course (TheEnd_Feedback.java)
-└── Exercise # 3: Compilation of all Programs (DataStrucAlgoAnalysis.java)
-```
+      Exercises (conditions and expected output)
+      ├── Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)
+      ├── Exercise # 2: Linked List - Reversed Linear Search (Midterm_Exercise2_LinkedList_ReversedLinearSearch.java)
+      ├── Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
+      ├── Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
+      └── Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
+      ```
+   - [All Activities under Pre-finals Period](DSAA-LabExercise-Prefinals.md)
+      ```
+      Exercises (conditions and expected output)
+      └── Exercise # 1: Trees (Prefinal_Exercise1_Trees.java)
+      ```
+   - [All Activities under Finals Period](DSAA-LabExercise-Finals.md)
+      ```
+      Exercises (conditions and expected output)
+      ├── Exercise # 1: N-sort (Finals_Exercise1_NSort.java)
+      ├── The End - Feedback to the Course (TheEnd_Feedback.java)
+      └── Exercise # 3: Compilation of all Programs (DataStrucAlgoAnalysis.java)
+      ```
 
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
 See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list of proposed features (and known issues).
