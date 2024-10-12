@@ -67,8 +67,8 @@ Exercises (conditions and expected output)
 └── Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
 ```
 
-1. Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
-   - User Story and Expected Output
+Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
+- User Story and Expected Output
       ```
       Create a Java Program with the following output:
 
@@ -92,8 +92,8 @@ Exercises (conditions and expected output)
       -  No/Hindi: Gutom lang yan.
       Nice meeting you <name>, sa uulitin!
       ```
-2. Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
-   - User Story and Expected Output
+Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+- User Story and Expected Output
       ```
       Create a Java Program with the following requirements:
 
@@ -129,8 +129,8 @@ Exercises (conditions and expected output)
       The maximum is 10
       The average is 5.5
       ```
-3. Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
-   - User Story and Expected Output
+Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+- User Story and Expected Output
       ```
       Create a Java Program with the following requirements:
 
@@ -167,8 +167,8 @@ Exercises (conditions and expected output)
       The maximum is 100, stored at [1][2]
       The average is 7.0
       ```
-4. Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
-   - User Story and Expected Output
+Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements:
 
@@ -247,8 +247,8 @@ Exercises (conditions and expected output)
       Number of Hours: 10
       Salary: 1,500.00
       ```
-5. Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
-   - User Story and Expected Output
+Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
+- User Story and Expected Output
       ```
       Output:
 
@@ -324,8 +324,8 @@ Exercises (conditions and expected output)
 
       Display sorted list: 1 2 3 4 5 6 7 8 9 10
       ```
-6. Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
-   - User Story and Expected Output
+Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements:
 
@@ -380,8 +380,8 @@ Exercises (conditions and expected output)
       middle = [3 + 3 = 6 / 2 = 3] = 3
       - Is array[3] : 6 <, >, =  6? =, TRUE, stored at [3]
       ```
-7. Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
-   - User Story and Expected Output
+Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements/0utput:
 
@@ -536,8 +536,8 @@ Exercises (conditions and expected output)
 
       Display sorted list: 0 1 2 3 4 5 6 7 8 9 
       ```
-8. Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
-   - User Story and Expected Output
+Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
+- User Story and Expected Output
       ```
       Create a Java Program based on the output below:
 
@@ -552,8 +552,8 @@ Exercises (conditions and expected output)
 
       Condition: Each operation (addition, subtraction, multiplication and division) must be coded and perfomed in separate methods, meaning you must have one void main and four methods in your program (one java method for addition, one java method for subtraction, one java method for multiplication and one java method for division).
       ```
-9. Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
-   - User Story and Expected Output
+Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
+- User Story and Expected Output
       ```
       Create a Java Program based on the output below:
 
@@ -562,8 +562,8 @@ Exercises (conditions and expected output)
       
       Condition: The computation of the factorial must be coded and perfomed in a method, meaning you must have one void main and one method in your program (one java method for the factorial).
       ```
-10. Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
-   - User Story and Expected Output
+Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
 
@@ -580,8 +580,8 @@ Exercises (conditions and expected output)
 
       Condition: The generation of the asterisk and computing the triangular number must be coded and perfomed in methods, meaning you must have one void main and two methods in your program (one java method for generating the asterisk of the triangular number and one method for computing the triangular number).
       ```
-11. Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
-   - User Story and Expected Output
+Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
 
@@ -590,8 +590,8 @@ Exercises (conditions and expected output)
 
       Condition: You must use stack and the .push() and .pop() methods in this program.
       ```
-12. Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
-   - User Story and Expected Output
+Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
 
@@ -600,8 +600,8 @@ Exercises (conditions and expected output)
 
       Condition: You must use stack and the .push() and .pop() methods in this program.
       ```
-13. Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
-   - User Story and Expected Output
+Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
+- User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
 

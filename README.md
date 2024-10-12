@@ -122,7 +122,7 @@ project-root/
       ```
       Exercises (conditions and expected output)
       ├── Exercise # 1: N-sort (Finals_Exercise1_NSort.java)
-      ├── The End - Feedback to the Course (TheEnd_Feedback.java)
+      ├── Exercise # 2 : The End - Feedback to the Course (TheEnd_Feedback.java)
       └── Exercise # 3: Compilation of all Programs (DataStrucAlgoAnalysis.java)
       ```
 
