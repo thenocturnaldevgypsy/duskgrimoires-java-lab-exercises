@@ -4,21 +4,21 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
-   <img src="https://img.shields.io/badge/Version-2.1.1-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.1">
+   <img src="https://img.shields.io/badge/Version-2.1.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.2">
    <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-14.09.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 14.09.2024">
+   <img src="https://img.shields.io/badge/Last%20Update-12.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.10.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
 </p>
 
-## ![SECTION Contribute](https://img.shields.io/badge/🤝-Contribute-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
+## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
 
 Hi! I appreciate your interest in contributing. 😊 This guide will help you get started to make your first contribution.
 
-### 🤔 **What you can Contribute?**
+## ![SUBSECTION What can you Contribute](https://custom-icon-badges.demolab.com/badge/-What%20you%20can%20Contribute-24292e?logo=people&logoColor=white&labelColor=2471AE)
 
 - 🐞 Bug Fixing : Contributors can help by reviewing and confirming reported issues. This includes submitting a report, verifying and providing additional details.
 
@@ -28,8 +28,7 @@ Hi! I appreciate your interest in contributing. 😊 This guide will help you ge
 
 - ✨Code Contributions : Contributors can enhance the project by implementing new features or improvements suggested by users. Unfortunately, I will move this one to hiatus first, as I need to make arrangement with reviewing those in the future.
 
----
-### 🤔 **How to Contribute?**
+## ![SUBSECTION How to Contribute](https://custom-icon-badges.demolab.com/badge/-How%20to%20Contribute-24292e?logo=people&logoColor=white&labelColor=2471AE)
 
 - Drop a Star ⭐ and 👁️ in this repo
 - Take a look at the existing [open](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues?q=is%3Aopen+is%3Aissue) and [closed](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues?q=is%3Aissue+is%3Aclosed) issues for possible duplicates.
